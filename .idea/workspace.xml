@@ -4,7 +4,17 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/java/com/line/datastructs/stack/StackDemo.java" line="106" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ae01f3e-5e41-4627-8b1b-5f4c9f9ab34f" name="Default Changelist" comment="" />
+    <list default="true" id="6ae01f3e-5e41-4627-8b1b-5f4c9f9ab34f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/line/concurrent/volatiledemo/ABADemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/line/concurrent/volatiledemo/ABADemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/line/concurrent/locks/MyData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/line/concurrent/locks/MyData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/line/concurrent/locks/SpinLockDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/line/concurrent/locks/SpinLockDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/line/concurrent/volatiledemo/ABADemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/line/concurrent/volatiledemo/ABADemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/line/datastructs/Xx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/line/datastructs/queue/CircleArrayQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/line/datastructs/queue/CircleArrayQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/line/datastructs/queue/CircleArrayQueueDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/line/datastructs/queue/CircleArrayQueueDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/line/lamp/StreamDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/line/lamp/StreamDemo.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,14 +28,71 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/line/lamp/StreamDemo.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/line/datastructs/array/SparseArrayDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="497">
-              <caret line="72" column="30" lean-forward="true" selection-start-line="72" selection-start-column="30" selection-end-line="72" selection-end-column="30" />
+            <state relative-caret-position="422">
+              <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/line/datastructs/linkedlist/LinkedListDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1273">
+              <caret line="66" column="6" selection-start-line="66" selection-start-column="6" selection-end-line="66" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/line/concurrent/volatiledemo/ABADemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="533">
+              <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/line/concurrent/locks/ReentrantLockDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/line/concurrent/locks/SpinLockDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="50" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/line/concurrent/volatiledemo/VolatileDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="353">
+              <caret line="30" column="107" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="30" selection-end-column="107" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/line/concurrent/locks/LockDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -52,7 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/line/datastructs/stack/StackDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/line/datastructs/Xx.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/line/spring/bean/Person.java" />
@@ -84,12 +150,10 @@
         <option value="$PROJECT_DIR$/src/main/java/com/line/concurrent/VolatileDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/line/concurrent/ReSortSeqDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/line/concurrent/volatiledemo/VolatileDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/line/concurrent/volatiledemo/ABADemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/line/concurrent/locks/CountDownLatchDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/line/concurrent/volatiledemo/SingletonDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/line/concurrent/cas/CasDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/line/concurrent/arraylist/ContainerNotSafeDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/line/concurrent/locks/SpinLockDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/line/concurrent/locks/ReentrantLockDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/line/concurrent/locks/ReadWriteLockDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/line/concurrent/volatiledemo/ReSortSeqDemo.java" />
@@ -103,6 +167,9 @@
         <option value="$PROJECT_DIR$/src/main/java/com/line/datastructs/queue/CircleArrayQueueDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/line/datastructs/array/SparseArrayDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/line/lamp/StreamDemo.java" />
+        <option value="$PROJECT_DIR$/readme.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/com/line/concurrent/volatiledemo/ABADemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/line/concurrent/locks/SpinLockDemo.java" />
       </list>
     </option>
   </component>
@@ -120,7 +187,9 @@
     <option name="width" value="1598" />
     <option name="height" value="860" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -134,129 +203,6 @@
             <path>
               <item name="jucdemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="jucdemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jucdemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jucdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jucdemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jucdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jucdemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jucdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jucdemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jucdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="line" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jucdemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jucdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="line" type="462c0819:PsiDirectoryNode" />
-              <item name="lamp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jucdemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jucdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="line" type="462c0819:PsiDirectoryNode" />
-              <item name="spring" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jucdemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jucdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jucdemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jucdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jucdemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jucdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="line" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jucdemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jucdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="line" type="462c0819:PsiDirectoryNode" />
-              <item name="spring" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jucdemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="jucdemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework:spring-core:4.3.19.RELEASE" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="jucdemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework:spring-core:4.3.19.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-core-4.3.19.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jucdemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework:spring-core:4.3.19.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-core-4.3.19.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="springframework" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jucdemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework:spring-core:4.3.19.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-core-4.3.19.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="springframework" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jucdemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework:spring-core:4.3.19.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-core-4.3.19.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="springframework" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="type" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jucdemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework:spring-core:4.3.19.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-core-4.3.19.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="springframework" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="type" type="462c0819:PsiDirectoryNode" />
-              <item name="filter" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -302,7 +248,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CircleArrayQueueDemo">
+  <component name="RunManager" selected="Application.SpinLockDemo">
     <configuration name="ArrayQueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.line.datastructs.queue.ArrayQueueDemo" />
       <module name="jucdemo" />
@@ -343,13 +289,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GCDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.line.jvm.GCDemo" />
+    <configuration name="SpinLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.line.concurrent.locks.SpinLockDemo" />
       <module name="jucdemo" />
-      <option name="VM_PARAMETERS" value="-Xms10m -Xmx10m -XX:+PrintGCDetails -XX:+PrintCommandLineFlags -XX:+UseSerialOldGC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.line.jvm.*" />
+          <option name="PATTERN" value="com.line.concurrent.locks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -373,17 +318,17 @@
     <list>
       <item itemvalue="Application.ArrayQueueDemo" />
       <item itemvalue="Application.StreamDemo" />
-      <item itemvalue="Application.GCDemo" />
       <item itemvalue="Application.G1Demo" />
       <item itemvalue="Application.CircleArrayQueueDemo" />
+      <item itemvalue="Application.SpinLockDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SpinLockDemo" />
         <item itemvalue="Application.CircleArrayQueueDemo" />
         <item itemvalue="Application.ArrayQueueDemo" />
         <item itemvalue="Application.StreamDemo" />
         <item itemvalue="Application.G1Demo" />
-        <item itemvalue="Application.GCDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -416,6 +361,7 @@
       <workItem from="1566878265327" duration="3193000" />
       <workItem from="1566975472326" duration="7555000" />
       <workItem from="1567039738472" duration="10891000" />
+      <workItem from="1567064499207" duration="5414000" />
     </task>
     <task id="LOCAL-00001" summary="jucdemo 1.0">
       <created>1567060483357</created>
@@ -438,7 +384,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567061017531</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="jucdemo 1.0">
+      <created>1567064557316</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1567064557316</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -474,13 +427,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="137975000" />
+    <option name="totallyTimeSpent" value="143389000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19669509" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18123667" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -489,7 +441,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.28416485" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.18546638" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.21668473" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -520,13 +472,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="jucdemo 1.0" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/spring/state/ProductStateEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/line/concurrent/VolatileDemo.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/line/concurrent/ReSortSeqDemo.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/line/spring/bean/Person.java">
@@ -640,16 +585,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/concurrent/volatiledemo/ABADemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1284">
-          <caret line="52" column="1" lean-forward="true" selection-start-line="6" selection-end-line="52" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/line/concurrent/volatiledemo/SingletonDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="698">
@@ -752,20 +687,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/datastructs/linkedlist/LinkedListDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/datastructs/array/SparseArrayDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="17" column="39" lean-forward="true" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/line/datastructs/queue/CircleArrayQueueDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -780,47 +701,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/datastructs/Xx.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/datastructs/Xx.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/line/datastructs/stack/StackDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="12" selection-start-line="12" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/concurrent/arraylist/ContainerNotSafeDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1000">
-          <caret line="46" column="9" lean-forward="true" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/concurrent/cas/CasDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/concurrent/locks/CountDownLatchDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -838,30 +723,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-240">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/concurrent/locks/LockDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="24" column="42" lean-forward="true" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/concurrent/locks/ReentrantLockDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/concurrent/locks/SpinLockDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -904,13 +765,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/concurrent/volatiledemo/VolatileDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/line/jvm/G1Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
@@ -935,10 +789,102 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="11" lean-forward="true" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/concurrent/locks/CountDownLatchDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/line/lamp/StreamDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="72" column="30" lean-forward="true" selection-start-line="72" selection-start-column="30" selection-end-line="72" selection-end-column="30" />
+        <state relative-caret-position="425">
+          <caret line="32" column="36" lean-forward="true" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/concurrent/cas/CasDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="25" lean-forward="true" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/concurrent/arraylist/ContainerNotSafeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="46" column="9" lean-forward="true" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/datastructs/array/SparseArrayDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/datastructs/linkedlist/LinkedListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1273">
+          <caret line="66" column="6" selection-start-line="66" selection-start-column="6" selection-end-line="66" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/concurrent/volatiledemo/ABADemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="533">
+          <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/concurrent/locks/ReentrantLockDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/concurrent/locks/LockDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/concurrent/volatiledemo/VolatileDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="30" column="107" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="30" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/concurrent/locks/SpinLockDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="50" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
