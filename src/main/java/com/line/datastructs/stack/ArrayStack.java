@@ -54,4 +54,62 @@ public class ArrayStack {
             System.out.println(String.format("stack[%s]=%s", i, (char)stack[i]));
         }
     }
+
+    public boolean isOper(char ch) {
+        return ch == '+' || ch == '-' || ch == '*' || ch == '/' || ch == '>' || ch == '<';
+    }
+
+    // (a+b)>2
+    public int priority(int ch) {
+        int priority;
+        switch (ch) {
+            case '+':
+            case '-':
+                priority = -1;
+                break;
+            case '*':
+            case '/':
+                priority = 1;
+                break;
+            case '>':
+            case '<':
+                priority = 2;
+                break;
+            default:
+                priority = 0;
+                break;
+        }
+        return priority;
+    }
+
+    public int peek() {
+        return stack[top];
+    }
+
+    public int cal(int num1, int num2, int oper) {
+        int res = 0;
+        switch (oper) {
+            case '+':
+                res = num1 + num2;
+                break;
+            case '-':
+                res = num2 - num1;
+                break;
+            case '>':
+                res = num1 > num2 ? 1 : 0;
+                break;
+            case '<':
+                res = num1 < num2 ? 1 : 0;
+                break;
+            case '*':
+                res = num1 * num2;
+                break;
+            case '/':
+                res = num2 / num1;
+                break;
+            default:
+                break;
+        }
+        return res;
+    }
 }
