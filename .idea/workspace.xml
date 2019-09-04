@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/main/java/com/line/datastructs/stack/StackDemo.java" line="106" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ae01f3e-5e41-4627-8b1b-5f4c9f9ab34f" name="Default Changelist" comment="">
+    <list default="true" id="6ae01f3e-5e41-4627-8b1b-5f4c9f9ab34f" name="Default Changelist" comment="枚举demo">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/line/concurrent/volatiledemo/ABADemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/line/concurrent/volatiledemo/ABADemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/line/concurrent/locks/MyData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/line/concurrent/locks/MyData.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/line/concurrent/locks/SpinLockDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/line/concurrent/locks/SpinLockDemo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/line/concurrent/volatiledemo/ABADemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/line/concurrent/volatiledemo/ABADemo.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/line/datastructs/Xx.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/line/datastructs/queue/CircleArrayQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/line/datastructs/queue/CircleArrayQueue.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/line/datastructs/queue/CircleArrayQueueDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/line/datastructs/queue/CircleArrayQueueDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/line/datastructs/stack/ArrayStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/line/datastructs/stack/ArrayStack.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/line/lamp/StreamDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/line/lamp/StreamDemo.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -29,70 +28,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/line/datastructs/array/SparseArrayDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
-              <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/line/datastructs/linkedlist/LinkedListDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1273">
-              <caret line="66" column="6" selection-start-line="66" selection-start-column="6" selection-end-line="66" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/line/concurrent/volatiledemo/ABADemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="533">
-              <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/line/concurrent/locks/ReentrantLockDemo.java">
+        <entry file="file://$PROJECT_DIR$/readme.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
-              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+              <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/line/concurrent/locks/SpinLockDemo.java">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="50" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/line/concurrent/volatiledemo/VolatileDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="30" column="107" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="30" selection-end-column="107" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/line/concurrent/locks/LockDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+            <state>
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -111,6 +59,9 @@
     <findStrings>
       <find>add</find>
       <find>hasNext</find>
+      <find>reverse_array</find>
+      <find>oper</find>
+      <find>isNum</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -119,28 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/line/datastructs/Xx.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/line/spring/bean/Person.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/line/spring/controller/BookController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/line/spring/service/BookService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/line/spring/dao/BookDao.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/line/spring/config/MyTypeFilter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/line/spring/condition/WindowCondition.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/line/spring/condition/LinuxCondition.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/line/spring/config/MainConfig2.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/line/parttern/ProductState.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/line/parttern/ProductAudit.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/line/parttern/Product.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/line/parttern/ProductContext.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/line/parttern/ProductInfoGatherState.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/line/parttern/ProductInquiryOnSampleState.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/line/parttern/ProductContextUtils.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/line/parttern/ProductContextTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/line/spring/bean/Product.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/line/spring/service/ProductContext.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/line/spring/service/ProductState.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/line/spring/service/ProductContextTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/line/spring/service/ProductInfoGatherState.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/line/spring/service/ProductInquiryOnSampleState.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/line/spring/config/MainConfig.java" />
@@ -167,9 +96,31 @@
         <option value="$PROJECT_DIR$/src/main/java/com/line/datastructs/queue/CircleArrayQueueDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/line/datastructs/array/SparseArrayDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/line/lamp/StreamDemo.java" />
-        <option value="$PROJECT_DIR$/readme.txt" />
         <option value="$PROJECT_DIR$/src/main/java/com/line/concurrent/volatiledemo/ABADemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/line/concurrent/locks/SpinLockDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/line/util/CountryEnum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/line/Xx.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/line/util/MathTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/line/util/ArithHelper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/line/util/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/line/datastructs/linkedlist/LinkedListDemo2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/line/datastructs/linkedlist/SingleLinkedListDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/line/datastructs/linkedlist/teacher/DoubleLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/line/datastructs/linkedlist/teacher/SingleLinkedListDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/line/datastructs/linkedlist/teacher/HeroNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/line/datastructs/linkedlist/teacher/DoubleLinkedListDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/line/datastructs/linkedlist/teacher/CircleSingleLinkedListDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/line/datastructs/stack/StackDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/line/datastructs/stack/ArrayStackDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/line/datastructs/stack/ArrayStack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/line/datastructs/stack/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/line/datastructs/stack/PolandNotationUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/line/datastructs/stack/PolandNotation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/line/datastructs/recursion/MingGong.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/line/datastructs/recursion/RecursionPrintDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/line/datastructs/recursion/Queen8.java" />
+        <option value="$PROJECT_DIR$/readme.txt" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -195,7 +146,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -204,10 +154,22 @@
               <item name="jucdemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="jucdemo" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="jucdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jucdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jucdemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jucdemo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -216,7 +178,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pig" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -224,16 +186,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.line.datastructs.stack" />
       <recent name="com.line.concurrent" />
       <recent name="com.line.parttern" />
       <recent name="com.line.spring.condition" />
       <recent name="com.line.spring.config" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideawk\jucdemo\src\main\java\com\line\datastructs\linkedlist" />
+      <recent name="D:\ideawk\jucdemo" />
       <recent name="D:\ideawk\jucdemo\src\main\java\com\line\concurrent\volatiledemo" />
       <recent name="D:\ideawk\jucdemo\src\main\java\com\line\spring\service" />
       <recent name="D:\ideawk\jucdemo\src\main\java\com\line\spring\bean" />
-      <recent name="D:\ideawk\jucdemo\src\main\java\com\line\concurrent\locks" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -248,13 +212,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SpinLockDemo">
-    <configuration name="ArrayQueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.line.datastructs.queue.ArrayQueueDemo" />
+  <component name="RunManager" selected="Application.Queen8">
+    <configuration name="MingGong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.line.datastructs.recursion.MingGong" />
       <module name="jucdemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.line.datastructs.queue.*" />
+          <option name="PATTERN" value="com.line.datastructs.recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -262,12 +226,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CircleArrayQueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.line.datastructs.queue.CircleArrayQueueDemo" />
+    <configuration name="PolandNotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.line.datastructs.stack.PolandNotation" />
       <module name="jucdemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.line.datastructs.queue.*" />
+          <option name="PATTERN" value="com.line.datastructs.stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -275,13 +239,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="G1Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.line.jvm.G1Demo" />
+    <configuration name="PolandNotationUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.line.datastructs.stack.PolandNotationUtils" />
       <module name="jucdemo" />
-      <option name="VM_PARAMETERS" value="-Xms10m -Xmx10m -XX:+PrintGCDetails -XX:+UseG1GC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.line.jvm.*" />
+          <option name="PATTERN" value="com.line.datastructs.stack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -289,12 +252,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpinLockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.line.concurrent.locks.SpinLockDemo" />
+    <configuration name="Queen8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.line.datastructs.recursion.Queen8" />
       <module name="jucdemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.line.concurrent.locks.*" />
+          <option name="PATTERN" value="com.line.datastructs.recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -302,12 +265,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.line.lamp.StreamDemo" />
+    <configuration name="RecursionPrintDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.line.datastructs.recursion.RecursionPrintDemo" />
       <module name="jucdemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.line.lamp.*" />
+          <option name="PATTERN" value="com.line.datastructs.recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -316,19 +279,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ArrayQueueDemo" />
-      <item itemvalue="Application.StreamDemo" />
-      <item itemvalue="Application.G1Demo" />
-      <item itemvalue="Application.CircleArrayQueueDemo" />
-      <item itemvalue="Application.SpinLockDemo" />
+      <item itemvalue="Application.PolandNotation" />
+      <item itemvalue="Application.PolandNotationUtils" />
+      <item itemvalue="Application.RecursionPrintDemo" />
+      <item itemvalue="Application.MingGong" />
+      <item itemvalue="Application.Queen8" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SpinLockDemo" />
-        <item itemvalue="Application.CircleArrayQueueDemo" />
-        <item itemvalue="Application.ArrayQueueDemo" />
-        <item itemvalue="Application.StreamDemo" />
-        <item itemvalue="Application.G1Demo" />
+        <item itemvalue="Application.Queen8" />
+        <item itemvalue="Application.MingGong" />
+        <item itemvalue="Application.RecursionPrintDemo" />
+        <item itemvalue="Application.PolandNotation" />
+        <item itemvalue="Application.PolandNotationUtils" />
       </list>
     </recent_temporary>
   </component>
@@ -361,7 +324,14 @@
       <workItem from="1566878265327" duration="3193000" />
       <workItem from="1566975472326" duration="7555000" />
       <workItem from="1567039738472" duration="10891000" />
-      <workItem from="1567064499207" duration="5414000" />
+      <workItem from="1567064499207" duration="7298000" />
+      <workItem from="1567131645868" duration="12579000" />
+      <workItem from="1567393999646" duration="11730000" />
+      <workItem from="1567412493997" duration="14628000" />
+      <workItem from="1567472525241" duration="11117000" />
+      <workItem from="1567483739464" duration="13658000" />
+      <workItem from="1567504128476" duration="3113000" />
+      <workItem from="1567558634529" duration="8128000" />
     </task>
     <task id="LOCAL-00001" summary="jucdemo 1.0">
       <created>1567060483357</created>
@@ -391,7 +361,49 @@
       <option name="project" value="LOCAL" />
       <updated>1567064557316</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="自旋锁">
+      <created>1567070875869</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1567070875869</updated>
+    </task>
+    <task id="LOCAL-00006" summary="枚举demo">
+      <created>1567072949518</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1567072949519</updated>
+    </task>
+    <task id="LOCAL-00007" summary="1.队列（单向队列、双向队列、环形队列）&#10;2.栈">
+      <created>1567420856902</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1567420856902</updated>
+    </task>
+    <task id="LOCAL-00008" summary="栈">
+      <created>1567421027796</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1567421027796</updated>
+    </task>
+    <task id="LOCAL-00009" summary="逆波兰表达式">
+      <created>1567501107218</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1567501107218</updated>
+    </task>
+    <task id="LOCAL-00010" summary="递归：打印、阶乘、迷宫、八皇后">
+      <created>1567579031616</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1567579031616</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -427,12 +439,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="143389000" />
+    <option name="totallyTimeSpent" value="220226000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18123667" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22121535" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -441,8 +454,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.18546638" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.21668473" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.17678958" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.17028199" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -451,7 +464,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.28169015" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32936078" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3286334" />
       <window_info anchor="bottom" id="Spring" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -469,199 +482,23 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="jucdemo 1.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="jucdemo 1.0" />
+    <MESSAGE value="自旋锁" />
+    <MESSAGE value="枚举demo" />
+    <MESSAGE value="1.队列（单向队列、双向队列、环形队列）&#10;2.栈" />
+    <MESSAGE value="栈" />
+    <MESSAGE value="逆波兰表达式" />
+    <MESSAGE value="递归：打印、阶乘、迷宫、八皇后" />
+    <option name="LAST_COMMIT_MESSAGE" value="递归：打印、阶乘、迷宫、八皇后" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/jucdemo$SingleLinkedListDemo.ic" NAME="SingleLinkedListDemo Coverage Results" MODIFIED="1567412368821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.line.datastructs.linkedlist.teacher.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/jucdemo$PolandNotation.ic" NAME="PolandNotation Coverage Results" MODIFIED="1567483671795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.line.datastructs.stack.*</FILTER>
+    </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/concurrent/VolatileDemo.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/concurrent/ReSortSeqDemo.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/spring/bean/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="e#290#291#0" expanded="true" />
-            <element signature="e#317#318#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/spring/service/ProductContextUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/spring/service/ProductInfoGatherState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="54" lean-forward="true" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/spring/service/ProductContextTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="35" lean-forward="true" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/spring/controller/BookController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/spring/condition/LinuxCondition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/spring/config/MainConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="22" column="110" selection-start-line="22" selection-start-column="110" selection-end-line="22" selection-end-column="110" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="759" column="32" selection-start-line="759" selection-start-column="32" selection-end-line="759" selection-end-column="32" />
-          <folding>
-            <element signature="e#44347#44348#0" expanded="true" />
-            <element signature="e#44395#44396#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/rt.jar!/sun/misc/Unsafe.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="305" column="32" selection-start-line="305" selection-start-column="32" selection-end-line="305" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="2259" column="32" selection-start-line="2259" selection-start-column="32" selection-end-line="2259" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/locks/ReentrantReadWriteLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="405" column="30" selection-start-line="405" selection-start-column="30" selection-end-line="405" selection-end-column="30" />
-          <folding>
-            <element signature="e#35675#35676#0" expanded="true" />
-            <element signature="e#35714#35715#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/concurrent/volatiledemo/ReSortSeqDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/concurrent/volatiledemo/SingletonDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="698">
-          <caret line="35" column="1" lean-forward="true" selection-start-line="4" selection-end-line="35" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/concurrent/locks/SemaphoreDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="800">
-          <caret line="33" column="1" selection-start-line="5" selection-end-line="33" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/concurrent/locks/ReadWriteLockDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1400">
-          <caret line="59" column="1" selection-start-line="7" selection-end-line="59" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/concurrent/locks/OddEventDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1800">
-          <caret line="73" column="1" selection-start-line="5" selection-end-line="73" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/Executors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4350">
-          <caret line="215" column="29" selection-start-line="215" selection-start-column="29" selection-end-line="215" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28125">
-          <caret line="1182" column="74" selection-start-line="1182" selection-start-column="74" selection-end-line="1182" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/function/Function.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="461">
-          <caret line="96" column="30" selection-start-line="96" selection-start-column="30" selection-end-line="96" selection-end-column="30" />
-          <folding>
-            <element signature="e#2837#2838#0" expanded="true" />
-            <element signature="e#2866#2867#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/stream/Collectors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="411" column="4" selection-start-line="411" selection-start-column="4" selection-end-line="411" selection-end-column="4" />
-          <folding>
-            <element signature="e#16803#16804#0" expanded="true" />
-            <element signature="e#16858#16859#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/lamp/Java8Tester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-950">
-          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/List.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3025">
@@ -680,13 +517,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="492">
-          <caret line="3166" column="25" selection-start-line="3166" selection-start-column="25" selection-end-line="3166" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/line/datastructs/queue/CircleArrayQueueDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -702,13 +532,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/line/datastructs/Xx.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/datastructs/stack/StackDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" selection-start-line="12" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/line/concurrent/locks/CyclicBarrierDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="634">
@@ -789,13 +612,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/readme.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="11" lean-forward="true" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/line/concurrent/locks/CountDownLatchDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -838,21 +654,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/line/datastructs/array/SparseArrayDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
+        <state relative-caret-position="425">
           <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/datastructs/linkedlist/LinkedListDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1273">
-          <caret line="66" column="6" selection-start-line="66" selection-start-column="6" selection-end-line="66" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/line/concurrent/volatiledemo/ABADemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="533">
+        <state relative-caret-position="1000">
           <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -862,32 +671,200 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/line/concurrent/locks/ReentrantLockDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
+        <state relative-caret-position="450">
           <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/concurrent/locks/LockDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/line/concurrent/volatiledemo/VolatileDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="30" column="107" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="30" selection-end-column="107" />
+        <state relative-caret-position="750">
+          <caret line="30" column="107" selection-start-line="18" selection-start-column="8" selection-end-line="30" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/concurrent/locks/LockDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/line/concurrent/locks/SpinLockDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="50" selection-end-column="1" />
+        <state relative-caret-position="-100">
+          <caret line="5" selection-start-line="5" selection-end-line="50" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="79" column="26" selection-start-line="79" selection-start-column="26" selection-end-line="79" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/math/BigDecimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="2620" column="47" selection-start-line="2620" selection-start-column="40" selection-end-line="2620" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/util/ArithHelper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/util/MathTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/util/Calculator.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/datastructs/linkedlist/LinkedListDemo2.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4650">
+          <caret line="211" column="28" selection-start-line="211" selection-start-column="28" selection-end-line="211" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/datastructs/linkedlist/SingleLinkedListDemo.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/datastructs/linkedlist/LinkedListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="66" column="6" selection-start-line="66" selection-start-column="6" selection-end-line="66" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/datastructs/linkedlist/teacher/HeroNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/datastructs/linkedlist/teacher/SingleLinkedListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="49" column="27" selection-start-line="49" selection-start-column="27" selection-end-line="49" selection-end-column="27" />
+          <folding>
+            <element signature="e#2329#2330#0" expanded="true" />
+            <element signature="e#2368#2369#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/datastructs/linkedlist/teacher/DoubleLinkedListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="167" column="1" lean-forward="true" selection-start-line="2" selection-end-line="167" selection-end-column="1" />
+          <folding>
+            <element signature="e#833#834#0" expanded="true" />
+            <element signature="e#859#860#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/datastructs/linkedlist/teacher/CircleSingleLinkedListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" selection-start-line="2" selection-end-line="140" selection-end-column="1" />
+          <folding>
+            <element signature="e#1883#1884#0" expanded="true" />
+            <element signature="e#1911#1912#0" expanded="true" />
+            <element signature="e#1937#1938#0" expanded="true" />
+            <element signature="e#1962#1963#0" expanded="true" />
+            <element signature="e#2051#2052#0" expanded="true" />
+            <element signature="e#2078#2079#0" expanded="true" />
+            <element signature="e#2115#2116#0" expanded="true" />
+            <element signature="e#2147#2148#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/datastructs/stack/StackDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1600">
+          <caret line="76" column="1" selection-start-line="76" selection-start-column="1" selection-end-line="76" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/Xx.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/datastructs/stack/PolandNotationUtils.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/datastructs/stack/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="31" column="39" lean-forward="true" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/datastructs/stack/ArrayStackDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/util/CountryEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="26" column="5" selection-start-line="18" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47150">
+          <caret line="1957" column="18" selection-start-line="1957" selection-start-column="18" selection-end-line="1957" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/datastructs/stack/ArrayStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1450">
+          <caret line="64" column="21" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/datastructs/stack/PolandNotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="41" column="23" lean-forward="true" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/datastructs/recursion/RecursionPrintDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/datastructs/recursion/MingGong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="79" column="1" selection-start-line="2" selection-end-line="79" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/line/datastructs/recursion/Queen8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="93" column="1" lean-forward="true" selection-start-line="2" selection-end-line="93" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
