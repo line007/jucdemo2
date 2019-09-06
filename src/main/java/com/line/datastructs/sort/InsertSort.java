@@ -1,6 +1,8 @@
 package com.line.datastructs.sort;
 
+import java.time.LocalDateTime;
 import java.util.Arrays;
+import java.util.Random;
 
 /**
  * @desc 插入排序
@@ -15,12 +17,14 @@ import java.util.Arrays;
  */
 public class InsertSort {
     public static void main(String[] args) {
-        int arr[] = {34, 101, 119, 1};
-        /*第1轮过后，arr=[34, 101, 119, 1]
-        第2轮过后，arr=[34, 101, 119, 1]
-        第3轮过后，arr=[1, 34, 101, 119]*/
-//        insert_sort(arr);
+        //int arr[] = {34, 101, 119, 1};
+        int[] arr = new int[160000];
+        for (int i = 0; i < 160000; i++) {
+            arr[i] = new Random().nextInt(8000000);
+        }
+        System.out.println(LocalDateTime.now());
         insert_sort2(arr);
+        System.out.println(LocalDateTime.now());
     }
 
     /**
@@ -47,7 +51,7 @@ public class InsertSort {
             }
             // （3）替换（将新值插入找到的位置）
             arr[insertIndex + 1] = insertVal; // insertIndex + 1 ，因为跳转循环多减了1
-            System.out.println("第" + i + "轮过后，arr=" + Arrays.toString(arr));
+            //System.out.println("第" + i + "轮过后，arr=" + Arrays.toString(arr));
         }
     }
 
