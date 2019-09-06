@@ -22,11 +22,11 @@ import java.util.Random;
 public class QuickSort {
 
     public static void main(String[] args) {
-        //int[] arr = {-9, 78, 0, 23, -567, 70};
-        int[] arr = new int[8000000];
+        int[] arr = {-9, 78, 0, 23, -567, 70};
+        /*int[] arr = new int[8000000];
         for (int i = 0; i < 8000000; i++) {
             arr[i] = new Random().nextInt(8000000);
-        }
+        }*/
         System.out.println(LocalDateTime.now());
         quickSort(arr, 0, arr.length - 1);
         System.out.println(LocalDateTime.now());

@@ -17,11 +17,11 @@ import java.util.Random;
  */
 public class InsertSort {
     public static void main(String[] args) {
-        //int arr[] = {34, 101, 119, 1};
-        int[] arr = new int[160000];
+        int arr[] = {34, 101, 119, 1};
+        /*int[] arr = new int[160000];
         for (int i = 0; i < 160000; i++) {
             arr[i] = new Random().nextInt(8000000);
-        }
+        }*/
         System.out.println(LocalDateTime.now());
         insert_sort2(arr);
         System.out.println(LocalDateTime.now());
