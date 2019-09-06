@@ -21,14 +21,17 @@ import java.util.Random;
 public class ShellSort {
     public static void main(String[] args) {
 
-//        int[] arr = {8, 9, 1, 7, 2, 3, 5, 4, 6, 0};
-        int[] arr = new int[160000];
-        for (int i = 0; i < 160000; i++) {
+        /*int[] arr = {8, 9, 1, 7, 2, 3, 5, 4, 6, 0};
+        shellSort2(arr);
+        System.out.println("第1轮过后，arr=" + Arrays.toString(arr));*/
+        int[] arr = new int[8000000];
+        for (int i = 0; i < 8000000; i++) {
             arr[i] = new Random().nextInt(8000000);
         }
         System.out.println(LocalDateTime.now());
         shellSort2(arr);
         System.out.println(LocalDateTime.now());
+        //System.out.println("arr=" + Arrays.toString(arr));
     }
 
     /**
@@ -40,7 +43,7 @@ public class ShellSort {
         int temp;
         for (int gap = arr.length / 2; gap > 0; gap /= 2) {
             // 第1轮 [8,3] [9,5] [1,4] [7,6][2,0]
-            for (int i = gap; i < arr.length; i += gap) { // 循环(length/gap-1)轮，从第gap轮开始比较
+            for (int i = gap; i < arr.length; i++) { //  ???：这里i++和i+=gap都可以，并且i+=gap循环次数更少，为啥用了反而性能更差呢
                 j = i;
                 temp = arr[j];
                 // for (int i = gap; i < arr.length; i ++) { // 循环(length-gap)轮，多循环了很多次，正常是length/gap-1
@@ -86,10 +89,6 @@ public class ShellSort {
         }
         System.out.println("第1轮过后，arr=" + Arrays.toString(arr));
         // 第2轮 [3, 5, 1, 6, 0, 8, 9, 4, 7, 2]
-        //       [3, 5, 1, 6, 0, 8, 9, 4, 7, 2] i=2 3v1
-        //       [3, 5, 1, 6, 0, 8, 9, 4, 7, 2] i=3 5v6
-        //       [3, 5, 1, 6, 0, 8, 9, 4, 7, 2] i=4 1v0
-        //       [3, 5, 1, 6, 0, 8, 9, 4, 7, 2] i=5 6v8 5v6
         int count = 0;
         for (int i = 2; i < arr.length; i++) { // 循环5-1轮，从第2个开始比较
             for (int j = i - 2; j >= 0; j -= 2) { // 两两比较，步长2
