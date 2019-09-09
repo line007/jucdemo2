@@ -40,7 +40,7 @@ public class StreamDemo {
         studentAllList.removeAll(studentErrorList);
         System.out.println(studentAllList);
 
-        String deliveryLimit = "12H/24H";
+        String deliveryLimit = "2h/3h"; // 2H,2h -> 2/3 -> 2H/3H
         Integer startHour = getHour(deliveryLimit, 0);
         Integer endHour = getHour(deliveryLimit, 1);
         System.out.println(startHour + "--" + endHour);
@@ -50,7 +50,7 @@ public class StreamDemo {
         return Optional.ofNullable(deliveryLimit).filter(m -> m.indexOf("/")!= -1 && m.split("/").length == 2)
                 .map(m -> m.trim())
                 .map(m -> m.split("/")[index])
-                .map(m -> Integer.valueOf(m.substring(0, 2))).orElse(0);
+                .map(m -> Integer.valueOf(m.substring(0, m.indexOf("H")))).orElse(0);
     }
 }
 
