@@ -10,6 +10,13 @@ public class Employee {
     private int age;
     private int salary;
 
+    public Employee() {
+    }
+
+    public Employee(int age) {
+        this.age = age;
+    }
+
     public Employee(String name, int age, int salary) {
         this.name = name;
         this.age = age;
