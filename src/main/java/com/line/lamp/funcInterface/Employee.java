@@ -9,6 +9,22 @@ public class Employee {
     private String name;
     private int age;
     private int salary;
+    private EmployeeType employeeType = EmployeeType.EMP;
+
+    public Employee(String name, int age, int salary, EmployeeType employeeType) {
+        this.name = name;
+        this.age = age;
+        this.salary = salary;
+        this.employeeType = employeeType;
+    }
+
+    public EmployeeType getEmployeeType() {
+        return employeeType;
+    }
+
+    public void setEmployeeType(EmployeeType employeeType) {
+        this.employeeType = employeeType;
+    }
 
     public Employee() {
     }
@@ -53,6 +69,11 @@ public class Employee {
                 "name='" + name + '\'' +
                 ", age=" + age +
                 ", salary=" + salary +
+                ", employeeType=" + employeeType +
                 '}';
+    }
+
+    public enum EmployeeType {
+        EMP, MGR
     }
 }
