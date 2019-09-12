@@ -89,7 +89,6 @@ public class FibSearch {
         return -1;
     }
 
-
     private static int[] fib() {
         // f[k] = f[k-1] + f[k-2]
         int[] f = new int[maxSize];
