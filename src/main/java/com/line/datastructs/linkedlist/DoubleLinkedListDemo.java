@@ -1,4 +1,4 @@
-package com.line.datastructs.linkedlist.teacher;
+package com.line.datastructs.linkedlist;
 
 /**
  * @desc 双向链表
