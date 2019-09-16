@@ -35,7 +35,7 @@ public class ThreadedBinaryTree {
             return;
         }
 
-        // （一）左
+        // （一）线索化左子树
         threadedNodes(node.getLeft());
 
         // （二）处理当前结点的前驱结点
