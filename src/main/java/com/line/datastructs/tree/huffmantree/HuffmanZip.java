@@ -1,5 +1,6 @@
 package com.line.datastructs.tree.huffmantree;
 
+import java.io.*;
 import java.util.*;
 import java.util.stream.Collectors;
 
@@ -32,6 +33,39 @@ public class HuffmanZip {
         // 解码
         byte[] sourceBytes = decode(huffmanCodes, huffmanCodesBytes);
         System.out.println("原字符串：" + new String(sourceBytes));
+
+        String srcFile = "D:\\2019\\doc\\img\\huffman.png";
+        String dstFile = "D:\\2019\\doc\\img\\huffman.zip";
+        zipFile(srcFile, dstFile);
+        System.out.println("ok");
+    }
+
+    public static void zipFile(String srcFile, String dstFile) {
+        // 创建文件输入流
+        FileInputStream is = null;
+        FileOutputStream os = null;
+        ObjectOutputStream oss = null;
+        try {
+            is = new FileInputStream(srcFile);
+            byte[] b = new byte[is.available()];
+            is.read(b);
+
+            byte[] huffmanBytes = huffmanZip(b);
+            os = new FileOutputStream(dstFile);
+            oss = new ObjectOutputStream(os);
+            oss.writeObject(huffmanBytes);
+        } catch (Exception e) {
+            System.out.println(e.getMessage());
+        } finally {
+            try {
+                oss.close();
+                os.close();
+                is.close();
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+        }
+
     }
 
     /**
