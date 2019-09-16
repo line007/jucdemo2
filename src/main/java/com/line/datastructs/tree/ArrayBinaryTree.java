@@ -1,7 +1,7 @@
 package com.line.datastructs.tree;
 
 /**
- * @desc TODO
+ * @desc 顺序二叉树
  * @Author xw
  * @Date 2019/9/12
  */

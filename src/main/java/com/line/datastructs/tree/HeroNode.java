@@ -11,6 +11,11 @@ public class HeroNode {
     private HeroNode left;
     private HeroNode right;
 
+    // leftType：0-指向左子树，1-指向前驱结点
+    private int leftType;
+    // rightType：0-指向右子树，1-指向后继结点
+    private int rightType;
+
     public HeroNode(int no, String name) {
         this.no = no;
         this.name = name;
@@ -98,11 +103,11 @@ public class HeroNode {
     // 中序遍历：左子节点->父节点->右子节点
     public void infixOrder() {
         if (this.left != null) {
-            this.left.preOrder();
+            this.left.infixOrder();
         }
         System.out.println(this);
         if (this.right != null) {
-            this.right.preOrder();
+            this.right.infixOrder();
         }
     }
 
@@ -160,5 +165,29 @@ public class HeroNode {
 
     public int getNo() {
         return no;
+    }
+
+    public int getLeftType() {
+        return leftType;
+    }
+
+    public void setLeftType(int leftType) {
+        this.leftType = leftType;
+    }
+
+    public int getRightType() {
+        return rightType;
+    }
+
+    public void setRightType(int rightType) {
+        this.rightType = rightType;
+    }
+
+    public HeroNode getLeft() {
+        return left;
+    }
+
+    public HeroNode getRight() {
+        return right;
     }
 }
