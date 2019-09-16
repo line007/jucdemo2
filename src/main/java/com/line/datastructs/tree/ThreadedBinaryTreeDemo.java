@@ -1,7 +1,11 @@
 package com.line.datastructs.tree;
 
 /**
- * @desc TODO
+ * @desc 线索化二叉树
+ *  案例：
+ *      {1, 3, 6, 8, 10, 14}
+ *  中序遍历方式：
+ *      {8, 3, 10, 1, 14, 6}
  * @Author xw
  * @Date 2019/9/16
  */
