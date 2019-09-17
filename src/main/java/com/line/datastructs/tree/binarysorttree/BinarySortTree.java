@@ -1,7 +1,7 @@
 package com.line.datastructs.tree.binarysorttree;
 
 /**
- * @desc TODO
+ * @desc 二叉排序树
  * @Author xw
  * @Date 2019/9/16
  */
