@@ -30,6 +30,12 @@
       <artifactId>spring-context</artifactId>
       <version>4.3.19.RELEASE</version>
     </dependency>
+    <!--阿里云媒体处理和消息服务-->
+    <dependency>
+      <groupId>com.alibaba</groupId>
+      <artifactId>fastjson</artifactId>
+      <version>1.2.8</version>
+    </dependency>
 
   </dependencies>
 
