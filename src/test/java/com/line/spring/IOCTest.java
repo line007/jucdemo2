@@ -11,7 +11,7 @@ import org.junit.Test;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 /**
- * @desc TODO
+ * @desc IOCTest
  * @Author xw
  * @Date 2019/8/16
  */

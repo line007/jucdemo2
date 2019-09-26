@@ -5,7 +5,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 import java.util.concurrent.locks.ReentrantLock;
 
 /**
- * @desc TODO
+ * @desc ReentrantLockDemo
  * @Author xw
  * @Date 2019/8/9
  */

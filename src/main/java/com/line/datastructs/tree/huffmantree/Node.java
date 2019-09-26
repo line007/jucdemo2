@@ -1,7 +1,7 @@
 package com.line.datastructs.tree.huffmantree;
 
 /**
- * @desc TODO
+ * @desc Node
  * @Author xw
  * @Date 2019/9/16
  */

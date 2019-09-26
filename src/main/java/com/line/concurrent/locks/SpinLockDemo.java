@@ -4,7 +4,7 @@ import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicReference;
 
 /**
- * @desc TODO
+ * @desc SpinLockDemo
  * @Author xw
  * @Date 2019/8/29
  */

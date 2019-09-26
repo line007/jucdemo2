@@ -3,7 +3,7 @@ package com.line.spring.dao;
 import org.springframework.stereotype.Repository;
 
 /**
- * @desc TODO
+ * @desc BookDao
  * @Author xw
  * @Date 2019/8/16
  */

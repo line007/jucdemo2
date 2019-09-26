@@ -1,7 +1,7 @@
 package com.line.util;
 
 /**
- * @desc TODO
+ * @desc CountryEnum
  * @Author xw
  * @Date 2019/8/29
  */

@@ -4,7 +4,7 @@ import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
 /**
- * @desc TODO
+ * @desc OddEventDemo
  * @Author xw
  * @Date 2019/8/9
  */

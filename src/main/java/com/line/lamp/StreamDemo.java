@@ -8,7 +8,7 @@ import java.util.function.Function;
 import java.util.stream.Collectors;
 
 /**
- * @desc TODO
+ * @desc StreamDemo
  * @Author xw
  * @Date 2019/8/27
  */

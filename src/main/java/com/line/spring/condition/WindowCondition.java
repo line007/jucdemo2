@@ -5,7 +5,7 @@ import org.springframework.context.annotation.ConditionContext;
 import org.springframework.core.type.AnnotatedTypeMetadata;
 
 /**
- * @desc TODO
+ * @desc WindowCondition
  * @Author xw
  * @Date 2019/8/16
  */

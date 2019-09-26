@@ -1,7 +1,7 @@
 package com.line.datastructs.stack;
 
 /**
- * @desc TODO
+ * @desc ArrayStack
  * @Author xw
  * @Date 2019/9/2
  */

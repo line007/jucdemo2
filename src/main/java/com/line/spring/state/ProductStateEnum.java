@@ -1,7 +1,7 @@
 package com.line.spring.state;
 
 /**
- * @desc TODO
+ * @desc ProductStateEnum
  * @Author xw
  * @Date 2019/8/16
  */

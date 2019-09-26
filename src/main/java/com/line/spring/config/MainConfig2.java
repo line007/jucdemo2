@@ -7,7 +7,7 @@ import org.springframework.context.annotation.*;
 import org.springframework.stereotype.Controller;
 
 /**
- * @desc TODO
+ * @desc MainConfig2
  * @Author xw
  * @Date 2019/8/16
  */

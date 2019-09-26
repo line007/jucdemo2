@@ -1,7 +1,7 @@
 package com.line.datastructs.linkedlist;
 
 /**
- * @desc TODO
+ * @desc HeroNode
  * @Author xw
  * @Date 2019/9/2
  */
