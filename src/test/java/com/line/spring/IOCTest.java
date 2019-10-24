@@ -10,14 +10,61 @@ import com.line.spring.state.ProductStateEnum;
 import org.junit.Test;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
+import java.math.BigDecimal;
+import java.math.RoundingMode;
+
+import java.time.LocalDate;
+import java.time.LocalDateTime;
+import java.time.format.DateTimeFormatter;
+import java.time.format.FormatStyle;
+import java.util.*;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
+
 /**
  * @desc IOCTest
  * @Author xw
  * @Date 2019/8/16
  */
 public class IOCTest {
+
     @Test
-    public void test01() {
+    public void testxx() {
+
+        String str = "2019/10/01 12:05:45";
+        LocalDateTime localDateTime = LocalDateTime.parse(str, DateTimeFormatter.ofPattern("yyyy/MM/dd HH:mm:ss"));
+        LocalDate localDate = LocalDate.parse(str, DateTimeFormatter.ofPattern("yyyy/MM/dd"));
+        System.out.println(localDateTime.getDayOfMonth());
+        System.out.println(localDate.getDayOfMonth());
+
+        /*System.out.println(localDateTime.getDayOfMonth());
+
+        BigDecimal x = new BigDecimal(10);
+        BigDecimal y = new BigDecimal(6);
+        System.out.println(x.divide(y, 4, RoundingMode.HALF_UP));
+
+        System.out.println(Optional.ofNullable(null).orElse("aaa"));
+
+        System.out.println(Arrays.asList("a","b","c").subList(0,3));
+
+        *//*for (int i = 0; i < 10; i++) {
+            if (i > 3) {
+                System.out.println("bbbb");
+                return;
+            }
+            System.out.println("aaaaaaaa");
+        }
+        System.out.println("cccc");*//*
+
+        List<Integer> xx = Arrays.asList(1,3,5,7,9);
+        List<Integer> xx2 = xx.stream().sorted(Comparator.reverseOrder()).collect(Collectors.toList());
+        System.out.println(xx2);*/
+
+        //System.out.println(Comparator.comparingInt(1, 2));
+    }
+
+    @Test
+    public void test_spring_annotation_config_bean() {
 
         AnnotationConfigApplicationContext applicationContext = new AnnotationConfigApplicationContext(MainConfig.class);
         Object person = applicationContext.getBean("person");

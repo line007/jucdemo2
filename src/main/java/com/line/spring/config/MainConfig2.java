@@ -1,10 +1,9 @@
 package com.line.spring.config;
 
 import com.line.spring.bean.Person;
-import com.line.spring.condition.LinuxCondition;
-import com.line.spring.condition.WindowCondition;
+import com.line.spring.ch01.config05.LinuxCondition;
+import com.line.spring.ch01.config05.WindowsCondition;
 import org.springframework.context.annotation.*;
-import org.springframework.stereotype.Controller;
 
 /**
  * @desc MainConfig2
@@ -23,7 +22,7 @@ public class MainConfig2 {
         return new Person("lisi", 20);
     }
 
-    @Conditional(WindowCondition.class)
+    @Conditional(WindowsCondition.class)
     @Bean("bill")
     public Person person01() {
         return new Person("Bill Gates", 62);

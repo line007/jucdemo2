@@ -97,4 +97,14 @@
 2.0 马踏棋盘算法
 
 五、spring注解驱动开发（spring包）
+1.容器
+A.第一章（com.line.spring.ch01）
+    1.1 @Bean：测试第一个Bean
+    1.2 @ComponentScan注解
+    1.3 @Scope：作用域
+    1.4 @Lazy：懒加载
+    1.5 @Conditional：条件
+    1.6 @Import：导入组件
 ...
+2.扩展原理
+3.web
