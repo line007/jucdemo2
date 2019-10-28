@@ -12,8 +12,8 @@ import java.util.stream.Stream;
  * 3.统计
  *  3.1 以总数、平均值、最小值为例
  *  3.2 归约
+ * 4.字符串拼接
  * 5.分组、分区
- * 6.归约
  * @Author xw
  * @Date 2019/9/11
  */
@@ -30,13 +30,13 @@ public class StreamOperatorDemo {
         // 1.创建Stream的几种方式
         test_create_stream();
         // 2.转集合的几种方式
-        //test_to_collect();
+        test_to_collect();
         // 3.统计（以总数、平均值、最小值为例）
-        //test_to_count();
+        test_to_count();
         // 4.字符串拼接
-        //test_append_str();
+        test_append_str();
         // 5.分组、分区
-        //test_groupby_partitioningBy();
+        test_groupby_partitioningBy();
     }
 
     private static void test_groupby_partitioningBy() {

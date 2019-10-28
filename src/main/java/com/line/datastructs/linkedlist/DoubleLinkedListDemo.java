@@ -30,7 +30,6 @@ public class DoubleLinkedListDemo {
         int no = 3;
         doubleLinkedList.del(no);
         doubleLinkedList.list();
-
     }
 }
 class DoubleLinkedList {

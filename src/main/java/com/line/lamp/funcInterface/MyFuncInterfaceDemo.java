@@ -49,28 +49,28 @@ public class MyFuncInterfaceDemo {
         // 1.常规操作
         test_normal(list);
         // 2.使用策略格式
-        //test_strategy(list);
+        test_strategy(list);
         // 3.使用内部类
-        //test_inner_class(list);
+        test_inner_class(list);
         // 4.使用Lambda
-        //test_lambda(list);
+        test_lambda(list);
         // 5.使用Stream
-        //test_stream01(list);
-        //test_stream02(list);
+        test_stream01(list);
+        test_stream02(list);
 
         // 二、方法引用
         // 1.对象::实例方法
-        // test_instance_method();
+         test_instance_method();
         // 2.类::静态方法名
-        // test_static_method();
+         test_static_method();
         // 3.类::实例方法名（第一个参数x与第二个参数y，做一个运算判断）
-        // test_normal_method();
+         test_normal_method();
 
         // 三、构造器引用（实例名::new）
-        // test_constructor_method();
+         test_constructor_method();
 
         // 四、数组引用
-        //test_array_method();
+        test_array_method();
     }
 
     private static void test_array_method() {
